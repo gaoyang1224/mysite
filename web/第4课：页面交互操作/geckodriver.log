@@ -1,0 +1,152 @@
+1614947010758	geckodriver	INFO	Listening on 127.0.0.1:3506
+1614947013782	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\muji\\AppData\\Local\\Temp\\rust_mozprofilecv1s2f"
+JavaScript error: trnpyadit2v.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614947018197	Marionette	INFO	Listening on port 3514
+1614947018515	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614950909212	Marionette	INFO	Stopped listening on port 3514
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\muji\\AppData\\Local\\Temp\\rust_mozprofileQTIjGk"
+JavaScript error: trnpyadit2v.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614947052354	Marionette	INFO	Listening on port 3647
+1614947052670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614948897202	Marionette	INFO	Stopped listening on port 3647
+4948373560	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\muji\\AppData\\Local\\Temp\\rust_mozprofilePPwnvk"
+JavaScript error: trnpyadit2v.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614948377196	Marionette	INFO	Listening on port 4346
+1614948377702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.jd.com/pinpai/script/search_new.init.js?2020-11-03-18!, line 2214: ReferenceError: JSTiming is not defined
+1614948897871	Marionette	INFO	Stopped listening on port 4346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\muji\\AppData\\Local\\Temp\\rust_mozprofileUxc8rZ"
+JavaScript error: trnpyadit2v.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614948566562	Marionette	INFO	Listening on port 4711
+1614948566992	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ss.bdimg.com/static/superman/js/sbase-0948aa26f1.js, line 70: Error: load css timeout : http://ss.bdimg.com/static/superman/css/components/user_quit_dialog-527f3ede74.css
+1614948898413	Marionette	INFO	Stopped listening on port 4711
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\muji\\AppData\\Local\\Temp\\rust_mozprofilepqrbQj"
+JavaScript error: trnpyadit2v.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614948662563	Marionette	INFO	Listening on port 4998
+1614948662753	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1614948675880	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1614948675961	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1614948899061	Marionette	INFO	Stopped listening on port 4998
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\muji\\AppData\\Local\\Temp\\rust_mozprofileVVYcon"
+JavaScript error: trnpyadit2v.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614948782249	Marionette	INFO	Listening on port 5291
+1614948782538	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1614948899798	Marionette	INFO	Stopped listening on port 5291
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\muji\\AppData\\Local\\Temp\\rust_mozprofileCyMrcS"
+JavaScript error: trnpyadit2v.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614948844695	Marionette	INFO	Listening on port 5488
+1614948845104	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+[Parent 15524, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1614948901488	Marionette	INFO	Stopped listening on port 5488
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614949322644	geckodriver	INFO	Listening on 127.0.0.1:6017
+1614949325658	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\muji\\AppData\\Local\\Temp\\rust_mozprofileloqNiY"
+JavaScript error: trnpyadit2v.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614949329305	Marionette	INFO	Listening on port 6028
+1614949329788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614950908833	Marionette	INFO	Stopped listening on port 6028
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\muji\\AppData\\Local\\Temp\\rust_mozprofileJTxWXt"
+JavaScript error: trnpyadit2v.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614949537853	Marionette	INFO	Listening on port 6311
+1614949537924	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614950909468	Marionette	INFO	Stopped listening on port 6311
+4950817529	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\muji\\AppData\\Local\\Temp\\rust_mozprofilejNOeJR"
+JavaScript error: trnpyadit2v.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614950821674	Marionette	INFO	Listening on port 7329
+1614950821767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614950908744	Marionette	INFO	Stopped listening on port 7329
+4950878483	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\muji\\AppData\\Local\\Temp\\rust_mozprofilehiQUxf"
+JavaScript error: trnpyadit2v.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614950882451	Marionette	INFO	Listening on port 7430
+1614950882649	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614950904311	Marionette	INFO	Stopped listening on port 7430
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614951044170	geckodriver	INFO	Listening on 127.0.0.1:7596
+1614951047219	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\muji\\AppData\\Local\\Temp\\rust_mozprofileaiSZV1"
+JavaScript error: trnpyadit2v.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614951050597	Marionette	INFO	Listening on port 7606
+1614951050857	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1614951652273	geckodriver	INFO	Listening on 127.0.0.1:8074
+1614951655310	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\muji\\AppData\\Local\\Temp\\rust_mozprofileBc1dMN"
+JavaScript error: trnpyadit2v.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614951658794	Marionette	INFO	Listening on port 8083
+1614951658939	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1614951677314	geckodriver	INFO	Listening on 127.0.0.1:8134
+1614951680362	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\muji\\AppData\\Local\\Temp\\rust_mozprofileuBoipe"
+JavaScript error: trnpyadit2v.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614951684128	Marionette	INFO	Listening on port 8145
+1614951684493	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1614952339505	geckodriver	INFO	Listening on 127.0.0.1:8884
+1614952342533	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\muji\\AppData\\Local\\Temp\\rust_mozprofileNL8MkY"
+JavaScript error: trnpyadit2v.cfg, line 2: ReferenceError: Components is not defined
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614952346255	Marionette	INFO	Listening on port 8896
+1614952346669	Marionette	WARN	TLS certificate errors will be ignored for this session

@@ -1,0 +1,15 @@
+host: "http://baidu.com"
+port: 6666
+
+db:
+  host: 172.21.204.32
+  port: 5555
+
+user:
+  -
+    username: "gaoyang"
+    password: 12345
+  -
+    username: "minxiao"
+    password: 1111
+

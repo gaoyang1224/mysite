@@ -1,0 +1,47 @@
+显性等待
+三大切换：窗口、iframe、alert
+鼠标：
+用户输入：
+
+写相对路径三种：
+1、浏览器右键 复制 xpath
+2、其他插件，chropath
+3、自己编写
+
+长不长，
+
+
+隐性等待：启动浏览器之后，不忘记设置隐性等待。find_element
+强制：time.sleep()
+显性等待：每需要用到一次，就要启动一次， 不仅可以等元素查找，而且其他的等待。
+用起来比较复杂。
+
+
+三大切换
+driver.window_handles[-1]
+
+窗口切换 driver.switch_to.window(driver.window_handles[-1])
+iframe: name, webelement, index, 退出
+alert: a = driver.switch_to.alert  a.accept()
+
+鼠标操作：
+1、单击 e.click()
+2、悬停，移动
+3、双击
+4、右击
+5、拖拽
+
+
+鼠标操作
+双击， ac.double_click(elem).perform()
+右击， ac.context_click(elem).perform()
+移动， ac.move_to_element(elem).perform()
+拖拽： ac.drag_and_drop(elem1, elem2).perform()
+
+
+# 键盘
+# select
+# 文件上传
+# js
+
+

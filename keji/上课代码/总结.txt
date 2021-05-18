@@ -1,0 +1,55 @@
+python命令找不到
+- 重启电脑
+- 只需要保留一个 python 版本。
+- pytest
+    - py.test
+    - python -m pytest
+- pytest --html=output.html
+    - 没有安装 pytest-html
+    - pip install pytest-html requests  openpyxl allure-pytest
+    - pip install 安装不上。python
+        - 多试几次
+        - 使用国内源：pip install requests -i https://mirrors.aliyun.com/pypi/simple
+
+
+变量： 想好，a,b,c
+
+# 字符串
+# 整型
+# 浮点数， 测试两个浮点数想等的时候，Decimal
+# logger, looger
+# __init__,  __int__
+
+# 列表
+# 字典 打印出来和 json 很像
+# 什么是 json ==> 通用数据格式  ==》 字符串， 有格式要求的。
+# 字典： python 数据类型
+
+
+# for,  enumerate(), 同时获取index, value
+# 函数：或者类 封装
+- 封装代码：每次调用可能会变化的数据，就作为参数
+- 调用函数后，想得到的数据，作为返回值
+
+# 类和对象
+- 和函数
+
+
+# pytest
+# test_ , pytest 运行
+# --html=,   pip intall pytest-html
+
+# @pytest.mark
+
+# fixture 夹具
+# -s,  不能把捕获信息显示到测试报告文件。只能用来调试。
+测试夹具如果想获取返回值，就要手动传入夹具作为参数，不能用 autouse
+
+# 注册接口实现
+注册成功
+
+
+# 路径处理
+c = D:\classes\py36\lesson23_api_v3\   data\cases.xlsx
+
+

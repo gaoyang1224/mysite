@@ -1,0 +1,291 @@
+1615131087117	geckodriver	INFO	Listening on 127.0.0.1:61843
+1615131090166	mozrunner::runner	INFO	Running command: "D:\\huohu\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\15195\\AppData\\Local\\Temp\\rust_mozprofile2J66GG"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615131092666	Marionette	INFO	Listening on port 61851
+1615131092795	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://pos.baidu.com/fcmm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=0c60186ab849dc7de0a412f9502e5680&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&aa=1&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1615131109311&ti=A%20Pink_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0304&dbv=0&drs=3&pcs=1266x700&pss=1266x9966&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1615131109&prot=2&rw=700&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2FA%2520Pink%2F4649409%3Ffromtitle%3DApink%26fromid%3D5929961%26fr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D3G6bQtR0RytpYHKXSTC0tbjTboQE2T-jEgE2B0dCTT5j8K46SHYgykgAnacndJxxLb5PWdVjY0RhtYkf5ULssW0x37P2P4qHJWRrCxFRdEdodNRvrSv7UP_Wk72bIeh7BmkprBLHs5pg1bc8quYRi_%26wd%3D%26eqid%3De1583eaa00072dde000000056044f1d5&ecd=1&uc=1536x824&pis=-1x-1&sr=1536x864&tcn=1615131109&qn=e5fa21a5e4fc2dda&tt=1615131109303.12.213.214, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/fcmm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=0c60186ab849dc7de0a412f9502e5680&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&aa=1&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1615131109311&ti=A%20Pink_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0304&dbv=0&drs=3&pcs=1266x700&pss=1266x9966&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1615131109&prot=2&rw=700&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2FA%2520Pink%2F4649409%3Ffromtitle%3DApink%26fromid%3D5929961%26fr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D3G6bQtR0RytpYHKXSTC0tbjTboQE2T-jEgE2B0dCTT5j8K46SHYgykgAnacndJxxLb5PWdVjY0RhtYkf5ULssW0x37P2P4qHJWRrCxFRdEdodNRvrSv7UP_Wk72bIeh7BmkprBLHs5pg1bc8quYRi_%26wd%3D%26eqid%3De1583eaa00072dde000000056044f1d5&ecd=1&uc=1536x824&pis=-1x-1&sr=1536x864&tcn=1615131109&qn=e5fa21a5e4fc2dda&tt=1615131109303.12.213.214, line 137: unreachable code after return statement
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 280: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1615131184850	Marionette	INFO	Stopped listening on port 61851
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615131837864	geckodriver	INFO	Listening on 127.0.0.1:62155
+1615131840907	mozrunner::runner	INFO	Running command: "D:\\huohu\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\15195\\AppData\\Local\\Temp\\rust_mozprofile6X0cMk"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615131843199	Marionette	INFO	Listening on port 62163
+1615131843545	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615131844754	Marionette	INFO	Stopped listening on port 62163
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615132040797	geckodriver	INFO	Listening on 127.0.0.1:62248
+1615132043826	mozrunner::runner	INFO	Running command: "D:\\huohu\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\15195\\AppData\\Local\\Temp\\rust_mozprofilesFL6e3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615132045940	Marionette	INFO	Listening on port 62257
+1615132045970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615132047332	Marionette	INFO	Stopped listening on port 62257
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B000A,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0146,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 376))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615132299044	geckodriver	INFO	Listening on 127.0.0.1:62335
+1615132302075	mozrunner::runner	INFO	Running command: "D:\\huohu\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\15195\\AppData\\Local\\Temp\\rust_mozprofilelQRQU1"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615132304452	Marionette	INFO	Listening on port 62343
+1615132304707	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+1615132802483	Marionette	INFO	Stopped listening on port 62343
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+bd"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615132346377	Marionette	INFO	Listening on port 62426
+1615132346690	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615132803852	Marionette	INFO	Stopped listening on port 62426
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+J3"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615132477498	Marionette	INFO	Listening on port 62524
+1615132477721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615132486259	Marionette	INFO	Stopped listening on port 62524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615132661059	geckodriver	INFO	Listening on 127.0.0.1:62624
+1615132664091	mozrunner::runner	INFO	Running command: "D:\\huohu\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\15195\\AppData\\Local\\Temp\\rust_mozprofilexdPvQz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615132666388	Marionette	INFO	Listening on port 62632
+1615132666731	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615132683721	Marionette	INFO	Stopped listening on port 62632
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615132699611	geckodriver	INFO	Listening on 127.0.0.1:62705
+1615132702646	mozrunner::runner	INFO	Running command: "D:\\huohu\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\15195\\AppData\\Local\\Temp\\rust_mozprofilelTx3Ag"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615132704808	Marionette	INFO	Listening on port 62713
+1615132705281	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://pos.baidu.com/dcem?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011,110741&psi=3cf7e71815fcd5de93e4ec775e5c0cd3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&aa=1&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1615132823254&ti=A%20Pink_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0304&dbv=0&drs=3&pcs=1266x700&pss=1266x9966&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1615132823&prot=2&rw=700&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2FA%2520Pink%2F4649409%3Ffromtitle%3DApink%26fromid%3D5929961%26fr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DdanPfxJLn14UBkPSTcG2SfuPy1KIS_UqdCZ-v0Sna_X5LOOYHC8JaZmCr_sq5JhYe4BgS_vSr3fxrliUiaU8MKXM6g7YC4-js6ddTehaZ7DcjI_whYNHQSqPrGamSp5c1oSc2oFLavcqlVu2W6nNWK%26wd%3D%26eqid%3D8f6c5f760015b2b8000000056044f822&ecd=1&uc=1536x824&pis=-1x-1&sr=1536x864&tcn=1615132823&qn=21981042b4e4b53c&tt=1615132823247.11.206.207, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/dcem?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011,110741&psi=3cf7e71815fcd5de93e4ec775e5c0cd3&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&aa=1&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1615132823254&ti=A%20Pink_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0304&dbv=0&drs=3&pcs=1266x700&pss=1266x9966&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1615132823&prot=2&rw=700&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2FA%2520Pink%2F4649409%3Ffromtitle%3DApink%26fromid%3D5929961%26fr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DdanPfxJLn14UBkPSTcG2SfuPy1KIS_UqdCZ-v0Sna_X5LOOYHC8JaZmCr_sq5JhYe4BgS_vSr3fxrliUiaU8MKXM6g7YC4-js6ddTehaZ7DcjI_whYNHQSqPrGamSp5c1oSc2oFLavcqlVu2W6nNWK%26wd%3D%26eqid%3D8f6c5f760015b2b8000000056044f822&ecd=1&uc=1536x824&pis=-1x-1&sr=1536x864&tcn=1615132823&qn=21981042b4e4b53c&tt=1615132823247.11.206.207, line 137: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1615133460655	Marionette	INFO	Stopped listening on port 62713
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615133033292	Marionette	INFO	Listening on port 62940
+1615133033543	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615133458980	Marionette	INFO	Stopped listening on port 62940
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+e5"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615133060942	Marionette	INFO	Listening on port 63052
+1615133061269	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://pos.baidu.com/icbm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=a4db9112a29649d162191b04c5658795&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&aa=1&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1615133064539&ti=A%20Pink_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0304&dbv=0&drs=3&pcs=1266x700&pss=1266x9966&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1615133064&prot=2&rw=700&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2FA%2520Pink%2F4649409%3Ffromtitle%3DApink%26fromid%3D5929961%26fr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DVXjflcwWVo5xkq2-G6JdIHfovJtKp00bD04g5UdzDpe5SLuT3gzAsnwIQTKmXmjergmNV_RZkP9WFm13CfA7mY_8TN4MFemmbcd1PV7lHC8j3WrWk9IDA7ybiYYtzUQj_WVwhH1eEGPSMW5G5bTrW_%26wd%3D%26eqid%3Da9f31b8c00047644000000056044f985&ecd=1&uc=1536x824&pis=-1x-1&sr=1536x864&tcn=1615133065&qn=dce54c57b351e7ec&tt=1615133064532.11.191.191, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/icbm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=a4db9112a29649d162191b04c5658795&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&aa=1&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1615133064539&ti=A%20Pink_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0304&dbv=0&drs=3&pcs=1266x700&pss=1266x9966&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1615133064&prot=2&rw=700&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2FA%2520Pink%2F4649409%3Ffromtitle%3DApink%26fromid%3D5929961%26fr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DVXjflcwWVo5xkq2-G6JdIHfovJtKp00bD04g5UdzDpe5SLuT3gzAsnwIQTKmXmjergmNV_RZkP9WFm13CfA7mY_8TN4MFemmbcd1PV7lHC8j3WrWk9IDA7ybiYYtzUQj_WVwhH1eEGPSMW5G5bTrW_%26wd%3D%26eqid%3Da9f31b8c00047644000000056044f985&ecd=1&uc=1536x824&pis=-1x-1&sr=1536x864&tcn=1615133065&qn=dce54c57b351e7ec&tt=1615133064532.11.191.191, line 137: unreachable code after return statement
+[Child 7440, MediaDecoderStateMachine #1] WARNING: Decoder=57bbc10 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1615133457156	Marionette	INFO	Stopped listening on port 63052
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615133337038	Marionette	INFO	Listening on port 63279
+1615133337153	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://pos.baidu.com/acsm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011,110740&psi=4612f6ca1347dc1f52ba314076733f3b&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&aa=1&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1615133340746&ti=A%20Pink_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0304&dbv=0&drs=3&pcs=1266x700&pss=1266x9966&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1615133340&prot=2&rw=700&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2FA%2520Pink%2F4649409%3Ffromtitle%3DApink%26fromid%3D5929961%26fr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D6MjavKB5SVdcnwJWDXEZgvTom85-_PNufIE0G-d1yGLSY9xVEiYb3AmnDDBqfLktL6ND99-vk_6351rgJF2_lHLTYHsCyZhtK_vpG8AXY1f-jCWGEdiBqsdG1SoQrL0MwXl0kbGF1vqFSho92ohXgK%26wd%3D%26eqid%3De14000ad0004a0a1000000056044fa9a&ecd=1&uc=1536x824&pis=-1x-1&sr=1536x864&tcn=1615133341&qn=6c37d4b3f0ab6736&tt=1615133340737.13.237.238, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/acsm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011,110740&psi=4612f6ca1347dc1f52ba314076733f3b&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&aa=1&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1615133340746&ti=A%20Pink_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0304&dbv=0&drs=3&pcs=1266x700&pss=1266x9966&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1615133340&prot=2&rw=700&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2FA%2520Pink%2F4649409%3Ffromtitle%3DApink%26fromid%3D5929961%26fr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3D6MjavKB5SVdcnwJWDXEZgvTom85-_PNufIE0G-d1yGLSY9xVEiYb3AmnDDBqfLktL6ND99-vk_6351rgJF2_lHLTYHsCyZhtK_vpG8AXY1f-jCWGEdiBqsdG1SoQrL0MwXl0kbGF1vqFSho92ohXgK%26wd%3D%26eqid%3De14000ad0004a0a1000000056044fa9a&ecd=1&uc=1536x824&pis=-1x-1&sr=1536x864&tcn=1615133341&qn=6c37d4b3f0ab6736&tt=1615133340737.13.237.238, line 137: unreachable code after return statement
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1615133526505	Marionette	INFO	Stopped listening on port 63279
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615133419488	Marionette	INFO	Listening on port 63477
+1615133419911	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://pos.baidu.com/ocvm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=926bc4cce09645e104ce730537763359&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&aa=1&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1615133422933&ti=A%20Pink_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0304&dbv=0&drs=3&pcs=1266x700&pss=1266x9966&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1615133422&prot=2&rw=700&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2FA%2520Pink%2F4649409%3Ffromtitle%3DApink%26fromid%3D5929961%26fr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DH3elSJ5jbxjbVGwUl9szQuiyMI9VaosFCLCaMaZ9wO9Fij670mcY_vs8RCw6GcCoZYWCEVJLkeJSXjZEJngey9PjBA_-7x8DHnsoZ4efZH9xvZnZ1bUfPCsVktWZ77cF4ZVE2KfsMzQfgIJg_d7r0K%26wd%3D%26eqid%3D9f79d68a00070cb9000000056044faec&ecd=1&uc=1536x824&pis=-1x-1&sr=1536x864&tcn=1615133423&qn=a1967fb2d44caa00&tt=1615133422927.10.175.176, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/ocvm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=926bc4cce09645e104ce730537763359&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&aa=1&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1615133422933&ti=A%20Pink_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0304&dbv=0&drs=3&pcs=1266x700&pss=1266x9966&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1615133422&prot=2&rw=700&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2FA%2520Pink%2F4649409%3Ffromtitle%3DApink%26fromid%3D5929961%26fr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DH3elSJ5jbxjbVGwUl9szQuiyMI9VaosFCLCaMaZ9wO9Fij670mcY_vs8RCw6GcCoZYWCEVJLkeJSXjZEJngey9PjBA_-7x8DHnsoZ4efZH9xvZnZ1bUfPCsVktWZ77cF4ZVE2KfsMzQfgIJg_d7r0K%26wd%3D%26eqid%3D9f79d68a00070cb9000000056044faec&ecd=1&uc=1536x824&pis=-1x-1&sr=1536x864&tcn=1615133423&qn=a1967fb2d44caa00&tt=1615133422927.10.175.176, line 137: unreachable code after return statement
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1615133528248	Marionette	INFO	Stopped listening on port 63477
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615293684681	geckodriver	INFO	Listening on 127.0.0.1:59237
+1615293687741	mozrunner::runner	INFO	Running command: "D:\\huohu\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\15195\\AppData\\Local\\Temp\\rust_mozprofilenmJ9PX"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615293690456	Marionette	INFO	Listening on port 59245
+1615293690961	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://pos.baidu.com/fcxm?conwid=250&conhei=250&rdid=6273274&dc=3&exps=110261,110254,110011&psi=86b74b4285f05bc202479cb14b4968cd&di=u6273274&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&aa=1&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1615293703627&ti=A%20Pink_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0304&dbv=0&drs=3&pcs=1266x700&pss=1266x10098&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1615293703&prot=2&rw=700&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2FA%2520Pink%2F4649409%3Ffromtitle%3DApink%26fromid%3D5929961%26fr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DNSROTrJZnSe7uCuSv-foCPgEst8bz0r_k_RWYnWmAj-4vjfzAvGP8GMEhL1zOZANVCgzj6MBHpPJcvDNprAd6FZlEUVDJ8O4n2uf7yWzDMp0BGe2Tic1OllBZhAluzE-QejWg9hUdnmFAKbM-G81mK%26wd%3D%26eqid%3D827a071800001ad80000000560476cfe&ecd=1&uc=1536x824&pis=-1x-1&sr=1536x864&tcn=1615293704&qn=a4418a58f6f8721e&tt=1615293703622.9.530.531, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/fcxm?conwid=250&conhei=250&rdid=6273274&dc=3&exps=110261,110254,110011&psi=86b74b4285f05bc202479cb14b4968cd&di=u6273274&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&aa=1&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1615293703627&ti=A%20Pink_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0304&dbv=0&drs=3&pcs=1266x700&pss=1266x10098&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1615293703&prot=2&rw=700&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2FA%2520Pink%2F4649409%3Ffromtitle%3DApink%26fromid%3D5929961%26fr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DNSROTrJZnSe7uCuSv-foCPgEst8bz0r_k_RWYnWmAj-4vjfzAvGP8GMEhL1zOZANVCgzj6MBHpPJcvDNprAd6FZlEUVDJ8O4n2uf7yWzDMp0BGe2Tic1OllBZhAluzE-QejWg9hUdnmFAKbM-G81mK%26wd%3D%26eqid%3D827a071800001ad80000000560476cfe&ecd=1&uc=1536x824&pis=-1x-1&sr=1536x864&tcn=1615293704&qn=a4418a58f6f8721e&tt=1615293703622.9.530.531, line 137: unreachable code after return statement
+[Child 8816, MediaDecoderStateMachine #1] WARNING: Decoder=4dbe4a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+[Child 8816, MediaDecoderStateMachine #1] WARNING: Decoder=4dbe4a0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1615295047532	Marionette	INFO	Stopped listening on port 59245
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+mbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615294357669	Marionette	INFO	Listening on port 59585
+1615294357917	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 726))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 376))
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://pos.baidu.com/gcvm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=ac1cbd4e3a71f37f55b5f3ba060a740f&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&aa=1&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1615294367646&ti=A%20Pink_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0304&dbv=0&drs=3&pcs=1266x700&pss=1266x9966&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1615294367&prot=2&rw=700&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2FA%2520Pink%2F4649409%3Ffromtitle%3DApink%26fromid%3D5929961%26fr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DdWO0sJaN3OQZI2pC3o4d3Dc6rjJPT5Y1I4jbJG53qjn17yRdsz73fBioU1Fp1MJugvmtrwhQFQqM04QrxenU2HwrmSjJZj2bfD6sSBZGv-P0RGv259Ikh7QL1XHO-PUsm_fmt-D0kXOwKghan5CbBq%26wd%3D%26eqid%3D8c47b29c0000a87a0000000560476f9c&ecd=1&uc=1536x824&pis=-1x-1&sr=1536x864&tcn=1615294368&qn=d837e9a455e41d40&tt=1615294367640.9.330.332, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/gcvm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011&psi=ac1cbd4e3a71f37f55b5f3ba060a740f&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&aa=1&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1615294367646&ti=A%20Pink_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0304&dbv=0&drs=3&pcs=1266x700&pss=1266x9966&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1615294367&prot=2&rw=700&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2FA%2520Pink%2F4649409%3Ffromtitle%3DApink%26fromid%3D5929961%26fr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DdWO0sJaN3OQZI2pC3o4d3Dc6rjJPT5Y1I4jbJG53qjn17yRdsz73fBioU1Fp1MJugvmtrwhQFQqM04QrxenU2HwrmSjJZj2bfD6sSBZGv-P0RGv259Ikh7QL1XHO-PUsm_fmt-D0kXOwKghan5CbBq%26wd%3D%26eqid%3D8c47b29c0000a87a0000000560476f9c&ecd=1&uc=1536x824&pis=-1x-1&sr=1536x864&tcn=1615294368&qn=d837e9a455e41d40&tt=1615294367640.9.330.332, line 137: unreachable code after return statement
+[Child 6516, MediaDecoderStateMachine #1] WARNING: Decoder=52c3950 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1615294705234	Marionette	INFO	Stopped listening on port 59585
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615294650200	Marionette	INFO	Listening on port 59875
+1615294650512	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://pos.baidu.com/pclm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011,110741&psi=d35affe414f81a33feb380a210eaf517&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&aa=1&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1615294657376&ti=A%20Pink_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0304&dbv=0&drs=3&pcs=1266x700&pss=1266x9966&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1615294657&prot=2&rw=700&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2FA%2520Pink%2F4649409%3Ffromtitle%3DApink%26fromid%3D5929961%26fr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DpgsDkFGCtSv4BK4vbTWavENjbEprWZeERecya5CsPDIMYnZnOJh1tXI2Fw_Y4Xt5E0QjP2gKig578iYqL7DbnRknOmUerNQV1CpQZjWhL7aJ96IrIeC7_CzatfbIk_UHuM0UVViCg-k2zkGaO1XogK%26wd%3D%26eqid%3Dbb541c210000a4e600000005604770bd&ecd=1&uc=1536x824&pis=-1x-1&sr=1536x864&tcn=1615294657&qn=37117314afe98bc3&tt=1615294657369.10.4210.4211, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/pclm?conwid=250&conhei=250&rdid=1997633&dc=3&exps=110261,110254,110011,110741&psi=d35affe414f81a33feb380a210eaf517&di=u1997633&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&aa=1&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1615294657376&ti=A%20Pink_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0304&dbv=0&drs=3&pcs=1266x700&pss=1266x9966&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1615294657&prot=2&rw=700&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2FA%2520Pink%2F4649409%3Ffromtitle%3DApink%26fromid%3D5929961%26fr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DpgsDkFGCtSv4BK4vbTWavENjbEprWZeERecya5CsPDIMYnZnOJh1tXI2Fw_Y4Xt5E0QjP2gKig578iYqL7DbnRknOmUerNQV1CpQZjWhL7aJ96IrIeC7_CzatfbIk_UHuM0UVViCg-k2zkGaO1XogK%26wd%3D%26eqid%3Dbb541c210000a4e600000005604770bd&ecd=1&uc=1536x824&pis=-1x-1&sr=1536x864&tcn=1615294657&qn=37117314afe98bc3&tt=1615294657369.10.4210.4211, line 137: unreachable code after return statement
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1615294706790	Marionette	INFO	Stopped listening on port 59875
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615294896414	geckodriver	INFO	Listening on 127.0.0.1:60073
+1615294899464	mozrunner::runner	INFO	Running command: "D:\\huohu\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\15195\\AppData\\Local\\Temp\\rust_mozprofileK0Np4O"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615294901743	Marionette	INFO	Listening on port 60081
+1615294902130	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript warning: https://pos.baidu.com/qclm?conwid=250&conhei=250&rdid=6273283&dc=3&exps=110261,110254,110011&psi=16253938ebf03d4349e5648f7d19602d&di=u6273283&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&aa=1&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1615294907933&ti=A%20Pink_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0304&dbv=0&drs=3&pcs=1266x700&pss=1266x9966&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1615294907&prot=2&rw=700&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2FA%2520Pink%2F4649409%3Ffromtitle%3DApink%26fromid%3D5929961%26fr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DxMKRpmUyOprhtUrpxFzR7kaF_6bogN3gQJxN3Wne5xNVLbTfrIFDpN54SsCF7eeUj-tJT4oK66mUamYWoAAerOsHKVoQKme3L5TxxF4ry9P2o_Q-RutxcFrzb9X9ZbvF7b0gW3YrjJ63tBg89ff_nq%26wd%3D%26eqid%3D8e9d84d90003f92b00000005604771b9&ecd=1&uc=1536x824&pis=-1x-1&sr=1536x864&tcn=1615294908&qn=7f6aa774c3dc4425&tt=1615294907927.10.201.201, line 137: unreachable code after return statement
+JavaScript warning: https://pos.baidu.com/qclm?conwid=250&conhei=250&rdid=6273283&dc=3&exps=110261,110254,110011&psi=16253938ebf03d4349e5648f7d19602d&di=u6273283&dri=0&dis=0&dai=1&ps=0x0&coa=wn%3D2%26hn%3D8&enu=encoding&ant=0&aa=1&dcb=___adblockplus_&dtm=HTML_POST&dvi=0.0&dci=-1&dpt=none&tsr=0&tpr=1615294907933&ti=A%20Pink_%E7%99%BE%E5%BA%A6%E7%99%BE%E7%A7%91&ari=2&ver=0304&dbv=0&drs=3&pcs=1266x700&pss=1266x9966&cfv=0&cpl=0&chi=1&cce=true&cec=UTF-8&tlm=1615294907&prot=2&rw=700&ltu=https%3A%2F%2Fbaike.baidu.com%2Fitem%2FA%2520Pink%2F4649409%3Ffromtitle%3DApink%26fromid%3D5929961%26fr%3Daladdin&ltr=https%3A%2F%2Fwww.baidu.com%2Flink%3Furl%3DxMKRpmUyOprhtUrpxFzR7kaF_6bogN3gQJxN3Wne5xNVLbTfrIFDpN54SsCF7eeUj-tJT4oK66mUamYWoAAerOsHKVoQKme3L5TxxF4ry9P2o_Q-RutxcFrzb9X9ZbvF7b0gW3YrjJ63tBg89ff_nq%26wd%3D%26eqid%3D8e9d84d90003f92b00000005604771b9&ecd=1&uc=1536x824&pis=-1x-1&sr=1536x864&tcn=1615294908&qn=7f6aa774c3dc4425&tt=1615294907927.10.201.201, line 137: unreachable code after return statement
+1615294909955	Marionette	ERROR	[40] No reply from Marionette:Register
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+[Child 17008, MediaDecoderStateMachine #1] WARNING: Decoder=53bccd0 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __thiscall mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3471
+JavaScript error: https://gss0.baidu.com/9rA4cT8aBw9FktbgoI7O1ygwehsv/static/api/js/trans/logger.js?v=d16ec0e3.js, line 1: TypeError: n.ajax.request is not a function
+1615295046209	Marionette	INFO	Stopped listening on port 60081
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

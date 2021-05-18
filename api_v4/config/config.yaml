@@ -1,0 +1,5 @@
+host: "http://api.lemonban.com/futureloan"
+
+logger:
+  name: py36
+  file: "py36.log"
