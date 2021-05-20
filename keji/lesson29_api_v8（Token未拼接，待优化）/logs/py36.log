@@ -23,3 +23,27 @@ time:2021-01-27 21:54:14,434--ERROR:root:assert 'OK' == 'failed'
   - failed
   + OK--test_login.py---41
 time:2021-01-27 21:54:14,434--INFO:root:测试数据: {"mobile_phone":"13712341234","pwd":"12345678"}--test_login.py---42
+time:2021-05-20 22:12:28,541--ERROR:py36:assert '无效的手机格式' == '账号信息错误'
+  - 账号信息错误
+  + 无效的手机格式--test_login.py---33
+time:2021-05-20 22:12:28,572--INFO:py36:测试数据: {"mobile_phone":"#new_phone#","pwd":"9999999"}--test_login.py---34
+time:2021-05-20 22:12:28,810--ERROR:py36:assert '无效的手机格式' == '账号信息错误'
+  - 账号信息错误
+  + 无效的手机格式--test_login.py---33
+time:2021-05-20 22:12:28,810--INFO:py36:测试数据: {"mobile_phone":"#investor_phone#","pwd":"123455677"}--test_login.py---34
+time:2021-05-20 22:12:28,906--ERROR:py36:assert '无效的手机格式' == 'OK'
+  - OK
+  + 无效的手机格式--test_login.py---33
+time:2021-05-20 22:12:28,906--INFO:py36:测试数据: {"mobile_phone":"#investor_phone#","pwd":"#investor_pwd#"}--test_login.py---34
+time:2021-05-20 22:16:13,827--ERROR:py36:assert '无效的手机格式' == '账号信息错误'
+  - 账号信息错误
+  + 无效的手机格式--test_login.py---33
+time:2021-05-20 22:16:13,831--INFO:py36:测试数据: {"mobile_phone":"#new_phone#","pwd":"9999999"}--test_login.py---34
+time:2021-05-20 22:16:14,059--ERROR:py36:assert '无效的手机格式' == '账号信息错误'
+  - 账号信息错误
+  + 无效的手机格式--test_login.py---33
+time:2021-05-20 22:16:14,059--INFO:py36:测试数据: {"mobile_phone":"#investor_phone#","pwd":"123455677"}--test_login.py---34
+time:2021-05-20 22:16:14,190--ERROR:py36:assert '无效的手机格式' == 'OK'
+  - OK
+  + 无效的手机格式--test_login.py---33
+time:2021-05-20 22:16:14,190--INFO:py36:测试数据: {"mobile_phone":"#investor_phone#","pwd":"#investor_pwd#"}--test_login.py---34

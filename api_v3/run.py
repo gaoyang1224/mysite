@@ -15,9 +15,12 @@ from datetime import datetime
 ts = datetime.now().strftime('%Y-%m-%d-%H-%M-%S')
 report_file_name = 'report' + ts + '.html'
 # 获取测试报告存储目录
-pytest.main(['--html={}'.format(report_file), '-s'])
 report_dir = path.reports_path
+
 # # 拼接文件
 report_file = os.path.join(report_dir, report_file_name)
 print(report_file)
+
+pytest.main(['--html={}'.format(report_file)])
+
 

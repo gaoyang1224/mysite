@@ -27,3 +27,19 @@ time:2021-05-08 00:16:13,609--ERROR:root:assert 'OK' == 'failed'
   - failed
   + OK--test_login.py---41
 time:2021-05-08 00:16:13,609--INFO:root:测试数据: {"mobile_phone":"18211112222","pwd":"12345678"}--test_login.py---42
+time:2021-05-20 21:44:15,542--ERROR:root:assert 'OK' == 'failed'
+  - failed
+  + OK--test_login.py---41
+time:2021-05-20 21:44:15,543--INFO:root:测试数据: {"mobile_phone":"18211112222","pwd":"12345678"}--test_login.py---42
+time:2021-05-20 21:48:48,205--ERROR:root:assert 'OK' == 'failed'
+  - failed
+  + OK--test_login.py---41
+time:2021-05-20 21:48:48,205--INFO:root:测试数据: {"mobile_phone":"18211112222","pwd":"12345678"}--test_login.py---42
+time:2021-05-20 22:06:27,530--ERROR:root:assert 'OK' == 'failed'
+  - failed
+  + OK--test_login.py---41
+time:2021-05-20 22:06:27,531--INFO:root:测试数据: {"mobile_phone":"18211112222","pwd":"12345678"}--test_login.py---42
+time:2021-05-20 22:22:57,893--ERROR:root:assert 'OK' == 'failed'
+  - failed
+  + OK--test_login.py---41
+time:2021-05-20 22:22:57,894--INFO:root:测试数据: {"mobile_phone":"18211112222","pwd":"12345678"}--test_login.py---42

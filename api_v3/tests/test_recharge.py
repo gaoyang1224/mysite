@@ -5,6 +5,7 @@ import os
 import json
 
 import requests
+from jsonpath import jsonpath
 
 from common.logger_handler import logger
 from config import path
@@ -38,4 +39,11 @@ def test_recharge(info, login):
                      method=info['method'],
                      headers=headers,
                      json=json.loads(info['data']))
-    assert resp.json()['code'] == info['expected']
+
+    print(resp.json())
+    expected = json.loads(info['expected'])
+    for key, value in expected.items():
+        # 实际结果的value 怎么获取
+        assert jsonpath(resp.json(), key)[0] == value
+
+

@@ -23,3 +23,7 @@ time:2021-01-27 21:54:14,434--ERROR:root:assert 'OK' == 'failed'
   - failed
   + OK--test_login.py---41
 time:2021-01-27 21:54:14,434--INFO:root:测试数据: {"mobile_phone":"13712341234","pwd":"12345678"}--test_login.py---42
+time:2021-05-20 21:39:14,578--ERROR:root:assert 'OK' == 'failed'
+  - failed
+  + OK--test_login.py---41
+time:2021-05-20 21:39:14,579--INFO:root:测试数据: {"mobile_phone":"18211112222","pwd":"12345678"}--test_login.py---42

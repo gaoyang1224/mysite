@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51192347-a91b-41e8-9d9f-8cea552476bf" name="Default Changelist" comment="" />
+    <list default="true" id="51192347-a91b-41e8-9d9f-8cea552476bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../keji/lesson28_api_v7/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_v3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api_v3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api_v3/tests/test_recharge.py" beforeDir="false" afterPath="$PROJECT_DIR$/../api_v3/tests/test_recharge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keji/lesson26_api_v5/.idea/lesson22_api_v2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../keji/lesson26_api_v5/.idea/lesson22_api_v2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keji/lesson26_api_v5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../keji/lesson26_api_v5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keji/lesson26_api_v5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../keji/lesson26_api_v5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keji/lesson26_api_v5/logs/py36.log" beforeDir="false" afterPath="$PROJECT_DIR$/../keji/lesson26_api_v5/logs/py36.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keji/lesson26_api_v5/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/../keji/lesson26_api_v5/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keji/lesson28_api_v7/.idea/lesson22_api_v2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../keji/lesson28_api_v7/.idea/lesson22_api_v2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keji/lesson28_api_v7/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../keji/lesson28_api_v7/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keji/lesson28_api_v7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../keji/lesson28_api_v7/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +116,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../api_v3" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -112,7 +125,7 @@
       <recent name="D:\py36\api_v2\上课代码" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.demo_db">
+  <component name="RunManager" selected="Python.run">
     <configuration name="demo_db" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="api_v2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,10 +228,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run" />
         <item itemvalue="Python.demo_db" />
         <item itemvalue="Python tests.pytest in test_register.py" />
         <item itemvalue="Python.helper" />
-        <item itemvalue="Python.run" />
         <item itemvalue="Python.yaml_handler" />
       </list>
     </recent_temporary>
@@ -242,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621342794773</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="代码提交">
+      <created>1621343353048</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621343353048</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
